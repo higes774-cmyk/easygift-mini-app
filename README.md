@@ -1,2 +1,2 @@
-# easygift-mini-app
+# CasiX-mini-app
 vsjtyturoifmdsfa
